@@ -1,2 +1,2 @@
 # DNS-server
-HW
+Запуск: go run .\main.go
